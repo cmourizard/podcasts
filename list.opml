@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<opml version="1.0">
+  <head>
+    <title>PodcastAddict registration feeds</title>
+    <dateCreated>24 juin 2020</dateCreated>
+    <dateModified>24 juin 2020</dateModified>
+  </head>
+  <body>
+    <outline text="#franceInterGaudry" type="rss" xmlUrl="#franceInterGaudry" htmlUrl="" />
+    <outline text="#twoMinutesPapers" type="rss" xmlUrl="#twoMinutesPapers" htmlUrl="" />
+    <outline text="&gt;Contournement&gt; audio : le podcast no-code" type="rss" xmlUrl="https://anchor.fm/s/cf4cb9c/podcast/rss" htmlUrl="https://www.contournement.io/" />
+    <outline text="180°C &amp; 12°5 les revues hédonistes" type="rss" xmlUrl="https://www.180c.fr/la-gazette/feed/podcast/" htmlUrl="https://www.180c.fr" />
+    <outline text="6 Minute English" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/p02pc9tn.rss" htmlUrl="http://www.bbc.co.uk/programmes/p02pc9tn" />
+    <outline text="A Poêle" type="rss" xmlUrl="https://rss.acast.com/a-poele" htmlUrl="https://www.apoele-lepodcast.com/" />
+    <outline text="Acquired" type="rss" xmlUrl="https://acquired.libsyn.com/rss" htmlUrl="https://acquired.fm" />
+    <outline text="Anti-brouillard" type="rss" xmlUrl="https://feeds.audiomeans.fr/feed/c4a4da51-17f1-4f0b-825f-6340b48dedde.xml" htmlUrl="https://www.anti-brouillard.fr/" />
+    <outline text="Apéro 404" type="rss" xmlUrl="https://anchor.fm/s/d9ba28c/podcast/rss" htmlUrl="https://twitter.com/apero404" />
+    <outline text="Autant en emporte l'histoire" type="rss" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_14435.xml" htmlUrl="https://www.franceinter.fr/emissions/autant-en-emporte-l-histoire" />
+    <outline text="Banquette" type="rss" xmlUrl="https://rss.art19.com/banquette" htmlUrl="https://art19.com/shows/banquette" />
+    <outline text="Bouffons" type="rss" xmlUrl="https://rss.art19.com/bouffons" htmlUrl="https://art19.com/shows/bouffons" />
+    <outline text="Casseroles" type="rss" xmlUrl="https://rss.acast.com/casseroles" htmlUrl="https://www.binge.audio/category/casseroles/" />
+    <outline text="Ceux qui nous lient" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:420255822/sounds.rss" htmlUrl="http://soundcloud.com/user-995303284" />
+    <outline text="Chaud !" type="rss" xmlUrl="https://rss.acast.com/chaud" htmlUrl="https://podcast.ausha.co/chaud" />
+    <outline text="Connaissez-vous l'histoire de...?" type="rss" xmlUrl="https://rss.acast.com/a-derouler" htmlUrl="https://www.binge.audio/category/histoires-vraies/connaissez-vous-lhistoire-de/" />
+    <outline text="CRM Talk" type="rss" xmlUrl="https://crmtalk.libsyn.com/rss" htmlUrl="http://www.crmtalkpodcast.com" />
+    <outline text="DataBuzzWord" type="rss" xmlUrl="https://www.spreaker.com/show/2072727/episodes/feed" htmlUrl="https://www.spreaker.com/show/jean-louis-queguiners-show" />
+    <outline text="echo, podcast tech / dev" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:452524227/sounds.rss" htmlUrl="https://podcastecho.github.io" />
+    <outline text="Electro Monkeys" type="rss" xmlUrl="https://feeds.buzzsprout.com/926791.rss" htmlUrl="https://electro-monkeys.fr/" />
+    <outline text="English as a Second Language (ESL) Podcast - Learn English Online" type="rss" xmlUrl="http://feeds.feedburner.com/EnglishAsASecondLanguagePodcast" htmlUrl="https://www.eslpod.com" />
+    <outline text="French Boss" type="rss" xmlUrl="https://www.spreaker.com/show/3444270/episodes/feed" htmlUrl="https://www.spreaker.com/show/french-boss" />
+    <outline text="Génération Do It Yourself" type="rss" xmlUrl="https://rss.art19.com/generation-do-it-yourself" htmlUrl="http://www.gdiy.fr" />
+    <outline text="Gône Digital" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:399849384/sounds.rss" htmlUrl="http://www.gone-digital.fr/" />
+    <outline text="IFTTD - If This Then Dev" type="rss" xmlUrl="https://rss.art19.com/ifttd-if-this-then-dev" htmlUrl="https://art19.com/shows/ifttd-if-this-then-dev" />
+    <outline text="La French Connection" type="rss" xmlUrl="https://securite.fm/episodes.mp3.rss" htmlUrl="https://securite.fm" />
+    <outline text="La Grosse Bouffe" type="rss" xmlUrl="https://feed.ausha.co/ow00lTG3J9Qw" htmlUrl="http://soundcloud.com/lagrossebouffe" />
+    <outline text="La Méthode scientifique" type="rss" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_14312.xml" htmlUrl="http://www.radiofrance.fr/" />
+    <outline text="La Terre à Boire" type="rss" xmlUrl="https://feed.ausha.co/omYJtzDq78ao" htmlUrl="http://soundcloud.com/user-819251535" />
+    <outline text="Le Panier" type="rss" xmlUrl="http://rss.art19.com/le-panier" htmlUrl="http://lepanier.io" />
+    <outline text="Le Podcast Tech" type="rss" xmlUrl="https://feed.pippa.io/public/shows/5d0aac5ffa212a050ff1e7f1" htmlUrl="https://shows.acast.com/les-podcasts-de-lilian" />
+    <outline text="Le rendez-vous Tech" type="rss" xmlUrl="http://feeds.feedburner.com/lerendezvoustech" htmlUrl="http://www.lrdv.fr/" />
+    <outline text="Les Bonnes choses" type="rss" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_19488.xml" htmlUrl="http://www.radiofrance.fr/" />
+    <outline text="Les cafés de l'APRES du Comité Grand Lille" type="rss" xmlUrl="https://feed.ausha.co/y0PvqUJRE0nO" htmlUrl="https://podcast.ausha.co/les-cafes-du-comite-grand-lille" />
+    <outline text="Les odyssées" type="rss" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_20108.xml" htmlUrl="https://www.franceinter.fr/emissions/les-odyssees" />
+    <outline text="MageTalk: A Magento Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/MageTalkAMagentoPodcast" htmlUrl="https://magetalk.com" />
+    <outline text="Message à caractère informatique" type="rss" xmlUrl="https://www.clever-cloud.com/fr/podcast/episode/index.xml" htmlUrl="https://www.clever-cloud.com/fr/podcast/" />
+    <outline text="NoLimitSecu" type="rss" xmlUrl="https://www.nolimitsecu.fr/feed/podcast/" htmlUrl="https://www.nolimitsecu.fr" />
+    <outline text="On va déguster" type="rss" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_11370.xml" htmlUrl="https://www.franceinter.fr/emissions/va-deguster" />
+    <outline text="Oui Are New York" type="rss" xmlUrl="https://anchor.fm/s/78297fc/podcast/rss" htmlUrl="https://anchor.fm/ouiareny" />
+    <outline text="Outils du Manager - Tout ce que vous avez toujours voulu savoir sur le management sans jamais oser le demander !" type="rss" xmlUrl="https://www.outilsdumanager.com/feed/podcasts/" htmlUrl="https://www.outilsdumanager.com/" />
+    <outline text="Podcast Science" type="rss" xmlUrl="http://feeds.feedburner.com/PodcastScience" htmlUrl="http://www.podcastscience.fm" />
+    <outline text="POPOTES" type="rss" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:512699892/sounds.rss" htmlUrl="http://soundcloud.com/popotes-podcast" />
+    <outline text="Radio DevOps" type="rss" xmlUrl="https://feeds.acast.com/public/shows/radio-devops" htmlUrl="https://www.compagnons-devops.fr/" />
+    <outline text="Ramène Ta Science" type="rss" xmlUrl="https://www.geekzone.fr/feed/ramene-ta-science" htmlUrl="https://www.geekzone.fr" />
+    <outline text="Santé Numérique" type="rss" xmlUrl="https://www.qualitiso.com/feed/tech-sante-podcast/" htmlUrl="https://www.qualitiso.com/blog/" />
+    <outline text="Scrum Life" type="rss" xmlUrl="https://www.youtube.com/channel/UCMCnZGIOeLVO65-LBxkkHyQ" htmlUrl="https://www.youtube.com/channel/UCMCnZGIOeLVO65-LBxkkHyQ" />
+    <outline text="Soft Power" type="rss" xmlUrl="http://radiofrance-podcast.net/podcast09/rss_10183.xml" htmlUrl="http://www.radiofrance.fr/" />
+    <outline text="Sous la robe" type="rss" xmlUrl="https://rss.acast.com/sous-la-robe" htmlUrl="https://play.acast.com/s/sous-la-robe" />
+    <outline text="Splash" type="rss" xmlUrl="https://rss.art19.com/splash" htmlUrl="https://art19.com/shows/splash" />
+    <outline text="squad designer" type="rss" xmlUrl="https://feed.ausha.co/bj0GqH6An32n" htmlUrl="https://podcast.ausha.co/squad-designer" />
+    <outline text="Tech Café" type="rss" xmlUrl="https://techcafe.fr/feed/podcast/" htmlUrl="https://techcafe.fr" />
+    <outline text="Tech Pull Origin Master" type="rss" xmlUrl="https://www.spreaker.com/show/3599553/episodes/feed" htmlUrl="https://www.spreaker.com/show/tech-pull-origin-master" />
+    <outline text="Tech-off - Les Echos" type="rss" xmlUrl="https://feeds.acast.com/public/shows/5c3cb9777599dfbb7855f91c" htmlUrl="http://www.lesechos.fr/tech-off/" />
+    <outline text='Tech.Rocks - "Paroles de Tech Leaders"' type="rss" xmlUrl="https://feed.ausha.co/yAe9vhMWlRL1" htmlUrl="https://www.tech.rocks/" />
+    <outline text="Thinkerview" type="rss" xmlUrl="https://thinkerview.com/feed/podcast/" htmlUrl="https://www.thinkerview.com/" />
+    <outline text="Tire Bouchon" type="rss" xmlUrl="https://tirebouchon.lepodcast.fr/rss" htmlUrl="https://tirebouchonpodcast.fr/" />
+    <outline text="Version Standard" type="rss" xmlUrl="https://versionstandard.fr/feed/podcast/" htmlUrl="https://versionstandard.fr" />
+    <outline text="Vieille Branche" type="rss" xmlUrl="https://rss.art19.com/vieille-branche" htmlUrl="https://art19.com/shows/vieille-branche" />
+    <outline text="Vlan!" type="rss" xmlUrl="https://feeds.audiomeans.fr/feed/8ca7aac1-479f-471c-b3a4-8b487e552bff.xml" htmlUrl="https://www.gregorypouy.fr/podcast-1" />
+    <outline text="Y Combinator" type="rss" xmlUrl="http://feeds.backtracks.fm/feeds/ycombinator/ycombinator/feed.xml?1563354057" htmlUrl="http://www.ycombinator.com" />
+  </body>
+</opml>
