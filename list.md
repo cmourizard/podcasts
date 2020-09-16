@@ -1,7 +1,5 @@
 # PodcastAddict registration feeds
 
-* [#franceInterGaudry](NaN)
-* [#twoMinutesPapers](NaN)
 * [>Contournement> audio : le podcast no-code](https://www.contournement.io/)
 * [180°C & 12°5 les revues hédonistes](https://www.180c.fr)
 * [6 Minute English](http://www.bbc.co.uk/programmes/p02pc9tn)
